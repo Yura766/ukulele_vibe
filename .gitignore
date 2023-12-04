@@ -1,0 +1,8 @@
+# modules
+/node_modules
+app/dist/node_modules
+client/node_modules
+#
+/uku_vibe-server
+/package.json
+/package-lock.json
